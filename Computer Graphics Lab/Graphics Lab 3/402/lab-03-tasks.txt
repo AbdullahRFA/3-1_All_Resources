@@ -1,0 +1,7 @@
+At first, Scan convert a line object from (0, 0) to (100, 50)
+then,
+1. Rotate it by 30 degree
+2. Scale it to 50%
+3. Translate it on x-axis 75px
+
+Drawing a kite using bresenham algorithm
